@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package com.dropwizard.helloworld;
+
+/**
+ * @author BoingoBoiActual
+ *
+ */
+public class HelloWorldResource {
+
+}
