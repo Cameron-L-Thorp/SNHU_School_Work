@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="io.dropwizard.client.HttpClientConfiguration"/>
+    <fullyQualifiedTypeName name="com.gamingroom.gameauth.controller.RESTClientController"/>
+    <fullyQualifiedTypeName name="io.dropwizard.client.JerseyClientConfiguration"/>
+</qualifiedTypeNameHistroy>
